@@ -12,7 +12,7 @@ import AVFoundation
 class ViewController: UIViewController {
 
     var doneSoundEffect: AVAudioPlayer?
-    let eggTime = ["Soft" : 3, "Meddium": 4, "Hard": 7]
+    let eggTime = ["Soft" : 300, "Meddium": 480, "Hard": 720]
     var titleButtom: String = ""
     var timer: Timer?
     var timeLeft = 0
