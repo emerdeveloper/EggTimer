@@ -11,7 +11,7 @@ Applying the concepts:
 * Diccionaries
 * Optionals
 
-# Funcinality
+# Functionality
 This App will be able to time your eggs to perfection.
 So if you want softer eggs, you'll never have to eat hard eggs again. Unless you line hard eggs, in which, you will get really solid eggs.
 
